@@ -14,7 +14,9 @@ As I grew up, I developed a passion for computers, so I took advantage of this i
   <img align="center" alt="Marcelo-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Marcelo-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Marcelo-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
+</div> <br><br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-fortuna&hide_progress=false&show_icons=true&locale=en&theme=date_night" alt="marcelo-fortuna" />
 
 ### Contact
 
