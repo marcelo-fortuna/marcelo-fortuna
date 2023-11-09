@@ -16,7 +16,7 @@ As I grew up, I developed a passion for computers, so I took advantage of this i
   <img align="center" alt="Marcelo-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div> <br><br>
 
-<img align="center" src="https://github-readme-stats-kohl-mu.vercel.app/api/top-langs/?username=marcelo-fortuna&hide_progress=false&locale=en&theme=date_night&langs_count=10&layout=compact" alt="marcelo-fortuna" />
+<img align="center" src="https://github-readme-sooty.vercel.app/api/top-langs/?username=marcelo-fortuna&hide_progress=false&locale=en&theme=date_night&langs_count=10&layout=compact" alt="marcelo-fortuna" />
 
 ### Contact
 
