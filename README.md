@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Technologies I Master
+### Technologies I Use
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
