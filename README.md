@@ -5,18 +5,16 @@ Ever since I was little, I've been interested in knowing how the things work.
 As I grew up, I developed a passion for computers, so I took advantage of this interest to go deeper and deeper into what I like.
 
 ### Technologies I Use
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcelo-CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Marcelo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Marcelo-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Marcelo-SQLServer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img align="center" alt="Marcelo-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="center" alt="Marcelo-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Marcelo-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div> <br><br>
-
-<img align="center" src="https://github-readme-stats-pi-eosin.vercel.app/api/top-langs/?username=marcelo-fortuna&hide_progress=false&locale=en&theme=date_night&langs_count=10&layout=compact" alt="marcelo-fortuna" />
+<div style="display: inline_block"><br> 
+  <img align="left" alt="Marcelo-CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="left" alt="Marcelo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="left" alt="Marcelo-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="left" alt="Marcelo-SQLServer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="left" alt="Marcelo-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="left" alt="Marcelo-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="Marcelo-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+  <img style="align-items: center;" align="right" src="https://github-readme-stats-pi-eosin.vercel.app/api/top-langs/?username=marcelo-fortuna&hide_progress=false&locale=en&theme=date_night&langs_count=10&layout=compact" alt="marcelo-fortuna" />
+</div><br>
 
 ### Contact
 
