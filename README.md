@@ -12,8 +12,8 @@ As I grew up, I developed a passion for computers, so I took advantage of this i
   <img align="left" alt="Marcelo-SQLServer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="left" alt="Marcelo-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="left" alt="Marcelo-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="Marcelo-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
-  <img style="align-items: center;" align="right" src="https://github-readme-stats-pi-eosin.vercel.app/api/top-langs/?username=marcelo-fortuna&hide_progress=false&locale=en&theme=date_night&langs_count=10&layout=compact&exclude_repo=GitHub-readme-stats" alt="marcelo-fortuna" />
+  <img align="left" alt="Marcelo-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img style="display: flex; justify-content: flex-end; align-items: center;" align="right" src="https://github-readme-stats-pi-eosin.vercel.app/api/top-langs/?username=marcelo-fortuna&hide_progress=false&locale=en&theme=date_night&langs_count=10&layout=compact&exclude_repo=GitHub-readme-stats" alt="marcelo-fortuna" />
 </div><br><br>
 
 ### Contact
