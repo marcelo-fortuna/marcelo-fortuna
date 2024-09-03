@@ -17,7 +17,7 @@ As I grew up, I developed a passion for computers, so I took advantage of this i
 
 ### Statistics
 <div style="display: inline_block">
-  <img alt="Marcelo-Stats" src="https://github-readme-stats-pi-eosin.vercel.app/api/top-langs/?username=marcelo-fortuna&hide_progress=false&locale=en&theme=github_dark&langs_count=10&layout=compact&exclude_repo=GitHub-readme-stats,arcane-season2" />
+  <img alt="Marcelo-Stats" src="https://github-readme-stats-pi-eosin.vercel.app/api/top-langs/?username=marcelo-fortuna&hide_progress=false&locale=en&theme=github_dark&langs_count=10&layout=compact&exclude_repo=GitHub-readme-stats,arcane-season1,arcane-season2" />
 </div>
 
 ### Contact
