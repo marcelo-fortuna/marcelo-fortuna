@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Student focused on Software Development.
+I'm a Software Development.
 Ever since I was little, I've been interested in knowing how the things work.
 As I grew up, I developed a passion for computers, so I took advantage of this interest to go deeper and deeper into what I like.
 
